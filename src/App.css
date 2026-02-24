@@ -1,0 +1,11 @@
+.app {
+  min-height: 100vh;
+  background: #FFFFFF;
+}
+
+.placeholder-view {
+  padding: 48px;
+  text-align: center;
+  color: #9CA3AF;
+  font-size: 14px;
+}
